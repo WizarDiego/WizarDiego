@@ -1,4 +1,4 @@
-## Hey 👋, I'm Diego da Rocha Ferreira!  
+## Hey 👋, I'm Diego Ferreira!  
   
 
 <a href="https://instagram.com/speakdiego/" target="_blank">
