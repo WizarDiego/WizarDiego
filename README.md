@@ -1,4 +1,4 @@
-## Hey 👋, I'm Diego Ferreira!  
+## Hey, Hellow 👋, Webpages de Diego da Rocha Ferreira! 💝  
   
 
 <a href="https://instagram.com/speakdiego/" target="_blank">
@@ -81,4 +81,4 @@ Sou um bom programador com pouca habilidade em Javascript, HTML e CSS pode ser d
 <br />
 
 ----
-<div align="center">Generated Todos os ©Direitos reservados®™ target="_blank">Github Profilinator</a></div>
+<div align="center">Generated Todos os ©Direitos reservados®™ </div>
