@@ -81,4 +81,4 @@ Sou um bom programador com pouca habilidade em Javascript, HTML e CSS pode ser d
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated Todos os ©Direitos reservados®™ target="_blank">Github Profilinator</a></div>
