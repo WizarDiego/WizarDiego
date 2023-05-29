@@ -18,13 +18,11 @@ Sou um bom programador com pouca habilidade em Javascript, HTML e CSS pode ser d
 <br/>  
 
 
-## Rapidfire  
+## Trabalhos rapidos
 <table><tr><td valign="top" width="50%">
-
-- ⚡ Estou disponível para criação de modelagem 3D.  
-
-
+- ⚡ Criação de personagens animados 3D.  
 </td><td valign="top" width="50%">
+- 🌐 Desenvolvo websites responsivos e interativos!🕳.
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -36,7 +34,7 @@ Sou um bom programador com pouca habilidade em Javascript, HTML e CSS pode ser d
 <br/>  
 
 
-## Languages and Tools  
+## Linguagens que mais gosto! 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" /></a>  
