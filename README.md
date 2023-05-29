@@ -11,7 +11,7 @@
 
 
 
-### Glad to see you here!  
+### Desenvolvimento pessoal!  
 Sou um bom programador com pouca habilidade em Javascript, HTML e CSS pode ser descrito como um iniciante ou novato na área de desenvolvimento web. Eu posso ter conhecimento básico de lógica de programação e conceitos fundamentais de desenvolvimento web, como estruturação de conteúdo e layout, mas ainda precisam aprimorar minhas habilidades em relação às tecnologias front-end.  
   
 
